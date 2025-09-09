@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year B.Tech Student @ Brainware University (CSE - AI & ML)<br>🧠 Passionate about Artificial Intelligence, Human-Computer Interaction, and Accessible Tech<br>📕 Learning Python <br>🌐 Learning Web Development from scratch<br>✍️ Currently have a research paper under review at "WILEY Publications". Chapter Titled: "AI and IoT in Solar Power Systems". Book Titled: "Harnessing Solar Power: Designing and Optimizing Architectures for Sustainable Energy Systems".<br>
+🎓 2nd Year B.Tech Student @ Brainware University (CSE - AI & ML)<br>🧠 Passionate about Artificial Intelligence, Human-Computer Interaction, and Accessible Tech<br>📕 Learning Python, Numpy <br>🌐 Learning Web Development from scratch<br>✍️ Currently have a research paper under review at "WILEY Publications". Chapter Titled: "AI and IoT in Solar Power Systems". Book Titled: "Harnessing Solar Power: Designing and Optimizing Architectures for Sustainable Energy Systems".<br>
 
 
 ## 🌐 Socials:
