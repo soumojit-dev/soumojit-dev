@@ -1,5 +1,48 @@
-# 💫 About Me:
-🎓 2nd Year B.Tech Student @ Brainware University (CSE - AI & ML)<br>🧠 Passionate about Artificial Intelligence, Human-Computer Interaction, and Accessible Tech<br>📕 Learning Python, Numpy, Pandas, Matplotlib, Seaborn <br>✍️ Currently have a research paper under review at "WILEY Publications". Chapter Titled: "AI and IoT in Solar Power Systems". Book Titled: "Harnessing Solar Power: Designing and Optimizing Architectures for Sustainable Energy Systems".<br>
+<h1 align="center">Hi 👋, I'm Soumojit Maitra</h1>
+<h3 align="center">Data Analytics & AI Enthusiast | B.Tech CSE (AI & ML)</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumojitmaitra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/soumojit-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-green?style=flat" />
+  <img src="https://img.shields.io/badge/Research-Wiley%20Accepted-orange?style=flat" />
+</p>
+
+---
+
+### 🚀 What I Do
+- 📊 Data Analytics using **Python, Pandas, NumPy**
+- 🗄️ Data querying & analysis with **SQL (MySQL)**
+- 📈 Interactive dashboards with **Power BI**
+- 📐 Strong foundation in **Statistics & Probability**
+- 📚 Research-oriented work with **accepted Wiley publications**
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+### 🎯 Current Focus
+- Advanced **Data Analytics & Statistical Modeling**
+- Business & customer analytics projects
+- Preparing for **Data Analytics / Data Science internships**
+
+---
+
+⭐ *Always learning, always building.*
+
 
 
 ## 🌐 Socials:
