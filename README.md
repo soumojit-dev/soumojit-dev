@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Second-year B.Tech CSE (AI & ML) student passionate about **Data Analytics, Business Intelligence, and Research**
+🎓 Third-year B.Tech CSE (AI & ML) student passionate about **Data Analytics, Business Intelligence, and Research**
 
 📊 Building projects involving **data cleaning, exploratory analysis, visualization, and dashboarding**
 
