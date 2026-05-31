@@ -1,65 +1,105 @@
-<h1 align="center">Hi 👋, I'm Soumojit Maitra</h1>
-<h3 align="center">Data Analytics & AI Enthusiast | B.Tech CSE (AI & ML)</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumojitmaitra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/soumojit-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-green?style=flat" />
-  <img src="https://img.shields.io/badge/Research-Wiley%20Accepted-orange?style=flat" />
+# Hi there 👋 I'm Soumojit Maitra
+
+### Data Analytics Enthusiast | B.Tech CSE (AI & ML) Student | Research Contributor
+
+*Transforming data into insights through analytics, visualization, and research-driven problem solving.*
+
+<p>
+<a href="https://linkedin.com/in/soumojitmaitra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:smprofessional2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/soumojit-dev">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
----
-
-### 🚀 What I Do
-- 📊 Data Analytics using **Python, Pandas, NumPy**
-- 🗄️ Data querying & analysis with **SQL (MySQL)**
-- 📈 Interactive dashboards with **Power BI**
-- 📐 Strong foundation in **Statistics & Probability**
-- 📚 Research-oriented work with **accepted Wiley publications**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</p>
+## 👨‍💻 About Me
+
+🎓 Second-year B.Tech CSE (AI & ML) student passionate about **Data Analytics, Business Intelligence, and Research**
+
+📊 Building projects involving **data cleaning, exploratory analysis, visualization, and dashboarding**
+
+📚 Published research contributor with work focused on **AI, IoT, and applied technologies**
+
+🚀 Currently exploring advanced analytics, statistical methods, and real-world data applications
 
 ---
 
-### 🎯 Current Focus
-- Advanced **Data Analytics & Statistical Modeling**
-- Business & customer analytics projects
-- Preparing for **Data Analytics / Data Science internships**
+## 🔬 Research & Publications
+
+* 📖 Published Wiley Book Chapter: **"AI and IoT in Solar Power Systems"**
+* 🧠 Interested in research areas including:
+
+  * Artificial Intelligence
+  * Data Analytics
+  * Applied Machine Learning
+  * Human-Centered Technology
 
 ---
 
-⭐ *Always learning, always building.*
+## 🛠 Tech Stack
 
+### Languages & Databases
 
+`Python` `SQL` `MySQL`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumojit_maitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumojitmaitra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smprofessional2005@gmail.com) 
+### Data Analytics & Visualization
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soumojit-dev&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soumojit-dev&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumojit-dev&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+`Pandas` `NumPy` `Power BI` `Matplotlib`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Tools & Platforms
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soumojit-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soumojit-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Current Focus
+
+* Building end-to-end analytics projects
+* Power BI dashboard development
+* Statistical analysis & business insights
+* Open Source Contributions
+* Data Analytics / Data Science Internship Preparation
+
+---
+
+## 📂 Featured Areas of Work
+
+📊 Data Analytics Projects
+📈 Dashboard Development
+🔍 Exploratory Data Analysis
+📚 Research Publications
+🤝 Open Source Contributions
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=soumojit-dev\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=soumojit-dev\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumojit-dev\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/soumojitmaitra) •
+[GitHub](https://github.com/soumojit-dev) •
+Email: [smprofessional2005@gmail.com](mailto:smprofessional2005@gmail.com)
+
+---
+
+### *Data-driven mindset • Research-oriented thinking • Continuous learning*
