@@ -19,12 +19,8 @@
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="file:///C:/Users/soumo/Downloads/Soumojit_Maitra_Resume.pdf" target="_blank">
+<a href="https://soumojit-portfolio.lovable.app/Soumojit_Maitra_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download_Now-success?style=for-the-badge&logo=adobeacrobatreader"/>
-</a>
-
-<a href="https://github.com/soumojit-dev">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
