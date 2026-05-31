@@ -38,13 +38,18 @@
 
 ## 🔬 Research & Publications
 
-* 📖 Published Wiley Book Chapter: **"AI and IoT in Solar Power Systems"**
-* 🧠 Interested in research areas including:
+* 📖 **Published Wiley Book Chapter:**
+  **"AI and IoT in Solar Power Systems"**
+  🔗 DOI: https://doi.org/10.1002/9783527855018.ch8
 
-  * Artificial Intelligence
+* Research Interests:
+
   * Data Analytics
+  * Artificial Intelligence
   * Applied Machine Learning
+  * IoT Systems
   * Human-Centered Technology
+
 
 ---
 
