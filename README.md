@@ -7,6 +7,10 @@
 *Transforming data into insights through analytics, visualization, and research-driven problem solving.*
 
 <p>
+ <a href="https://soumojit-portfolio.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-purple?style=for-the-badge&logo=google-chrome"/>
+</a>
+ 
 <a href="https://linkedin.com/in/soumojitmaitra">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -101,9 +105,13 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/soumojitmaitra) •
-[GitHub](https://github.com/soumojit-dev) •
-Email: [smprofessional2005@gmail.com](mailto:smprofessional2005@gmail.com)
+🔗 Portfolio: https://soumojit-portfolio.lovable.app/
+
+💼 LinkedIn: https://linkedin.com/in/soumojitmaitra
+
+💻 GitHub: https://github.com/soumojit-dev
+
+📧 Email: smprofessional2005@gmail.com
 
 ---
 
