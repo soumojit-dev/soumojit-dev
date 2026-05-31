@@ -65,7 +65,7 @@
 
 ### Data Analytics & Visualization
 
-`Pandas` `NumPy` `Power BI` `Matplotlib`
+`Pandas` `NumPy` `Power BI` `Matplotlib` `Seaborn`
 
 ### Tools & Platforms
 
