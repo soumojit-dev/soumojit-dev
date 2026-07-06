@@ -46,6 +46,10 @@
   **"AI and IoT in Solar Power Systems"**
   🔗 DOI: https://doi.org/10.1002/9783527855018.ch8
 
+  * 📖 **Published NIPA Book Chapter:**
+  **"Advanced People Analytics and Organizational Network Analysis"**
+  🔗 ONLINE PAGE LINK: https://www.nipabooks.com/info/9789372198171/ai-and-the-future-of-talent
+
 * Research Interests:
 
   * Data Analytics
