@@ -1,157 +1,166 @@
 # Hi there 👋 I'm Soumojit Maitra
 
-## 📊 Data Analytics | Business Intelligence | Python | SQL | Power BI
+## 📊 Data Analytics \| Business Intelligence \| Python \| SQL \| Power BI
 
-*Transforming raw data into meaningful insights through analytics, visualization, and research-driven problem solving.*
+*Transforming raw data into meaningful insights through analytics,
+visualization, and research-driven problem solving.*
 
+```{=html}
 <p align="center">
-  <a href="https://soumojit-portfolio.lovable.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blueviolet?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/soumojitmaitra"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:smprofessional2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://orcid.org/0009-0008-4867-7287"><img src="https://img.shields.io/badge/ORCID-Research-green?style=for-the-badge"></a>
+```
+`<a href="https://soumojit-portfolio.lovable.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-Visit_Website-blueviolet?style=for-the-badge">`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/soumojitmaitra">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
+`<a href="mailto:smprofessional2005@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">`{=html}`</a>`{=html}
+`<a href="https://orcid.org/0009-0008-4867-7287">`{=html}`<img src="https://img.shields.io/badge/ORCID-Research-green?style=for-the-badge">`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 👨‍💻 About Me
 
-🎓 Third-year B.Tech Computer Science & Engineering (AI & ML) student with a strong interest in **Data Analytics**, **Business Intelligence**, and **Research**.
+🎓 Third-year B.Tech Computer Science & Engineering (AI & ML) student
+passionate about **Data Analytics**, **Business Intelligence**, and
+data-driven decision making.
 
-📊 Passionate about transforming raw data into actionable business insights using **Python, SQL, Excel, and Power BI**.
+📊 I enjoy building end-to-end analytics solutions using **Python, SQL,
+Excel, Power BI, Pandas, and NumPy**.
 
-📈 Experienced in data cleaning, exploratory data analysis (EDA), dashboard development, and business reporting through academic, personal, and internship projects.
+📈 My interests include data cleaning, exploratory data analysis (EDA),
+dashboard development, business reporting, and statistical analysis.
 
-📚 Published research contributor with book chapters in AI and applied technologies.
+📚 Published research contributor with book chapters in AI and applied
+technologies.
 
-🚀 Currently strengthening my skills in advanced analytics, statistics, business intelligence, and real-world data applications.
+🚀 Currently seeking opportunities to solve real-world business problems
+through analytics.
 
----
+------------------------------------------------------------------------
 
-# 🏆 Highlights
+# 💼 Experience
 
-- 📖 Published Wiley Book Chapter – *AI and IoT in Solar Power Systems*
-- 📖 Published NIPA Book Chapter – *Advanced People Analytics and Organizational Network Analysis*
-- 🥇 NPTEL Human Computer Interaction – **Elite + Gold**
-- 🎓 NPTEL Data Analytics with Python
-- 📊 Cisco Introduction to Data Science
-- 🤖 NVIDIA Generative AI Explained
-- 💼 Data Analyst Intern at Excelerate *(Remote)*
-- 🏅 AICTE Internship Participant
+### Data Analyst Intern \| Excelerate *(Remote)*
 
----
+-   Working on analytics-driven tasks and collaborative projects.
+-   Applying Python, SQL, Excel, and Power BI to analyze data and
+    communicate insights.
+-   Developing practical business analytics skills in a professional
+    environment.
 
-# 🔬 Research Interests
-
-- Data Analytics
-- Business Intelligence
-- Applied Artificial Intelligence
-- Human-Centered Computing
-- IoT Systems
-- Applied Machine Learning
-
----
+------------------------------------------------------------------------
 
 # 🛠 Tech Stack
 
-## 👨‍💻 Languages
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+-   Python
+-   SQL
 
----
+## Databases
 
-## 🗄 Databases
+-   MySQL
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## Data Analytics
 
----
+-   Pandas
+-   NumPy
+-   Microsoft Excel
 
-## 📊 Data Analytics
+## Business Intelligence
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel)
+-   Power BI
+-   Power Query
+-   DAX
 
----
+## Data Visualization
 
-## 📈 Business Intelligence
+-   Matplotlib
+-   Seaborn
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-FFB000?style=flat-square)
+## Tools
 
----
+-   Git
+-   GitHub
+-   Jupyter Notebook
+-   VS Code
 
-## 📉 Data Visualization
+------------------------------------------------------------------------
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+# 🚀 Featured Projects
 
----
+-   📊 Ecommerce Data Analysis
+-   ✈️ Airlines Flight Analysis
+-   🛒 Customer Shopping Behaviour Analysis
+-   📈 Superstore Retail Sales & Profit Analysis
 
-## 🧰 Tools & Platforms
+> Each project demonstrates data cleaning, EDA, visualization, and
+> business insight generation.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+------------------------------------------------------------------------
 
----
+# 📜 Certifications
+
+-   🥇 NPTEL Human Computer Interaction (Elite + Gold)
+-   🎓 NPTEL Data Analytics with Python
+-   📊 Cisco Introduction to Data Science
+-   🤖 NVIDIA Generative AI Explained
+
+------------------------------------------------------------------------
+
+# 📚 Publications
+
+-   📖 *AI and IoT in Solar Power Systems* (Wiley)
+-   📖 *Advanced People Analytics and Organizational Network Analysis*
+    (NIPA Books)
+
+Research Interests: - Data Analytics - Business Intelligence - Applied
+Artificial Intelligence - Human-Centered Computing - IoT Systems
+
+------------------------------------------------------------------------
 
 # 📈 Current Focus
 
-- 📊 End-to-End Data Analytics Projects
-- 📈 Business Intelligence Dashboards
-- 🗃 SQL-based Data Analysis
-- 📉 Advanced Data Visualization
-- 📐 Statistics for Business Analytics
-- 🤝 Open Source Contributions
+-   End-to-End Data Analytics Projects
+-   Business Intelligence Dashboards
+-   SQL-based Data Analysis
+-   Data Visualization
+-   Statistics for Business Analytics
+-   Open Source Contributions
 
----
-
-# 📂 Featured Areas of Work
-
-- 📊 Data Analytics Projects
-- 📈 Power BI Dashboards
-- 🔍 Exploratory Data Analysis (EDA)
-- 🗃 SQL Projects
-- 📚 Research Publications
-- 🤝 Open Source Contributions
-
----
+------------------------------------------------------------------------
 
 # 📚 Currently Learning
 
-- Advanced SQL
-- Power BI DAX
-- Business Analytics
-- Data Storytelling
-- Data Modeling
-- Statistics for Data Analytics
+-   Advanced SQL
+-   Power BI DAX
+-   Business Analytics
+-   Data Storytelling
+-   Data Modeling
 
----
+------------------------------------------------------------------------
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
-- 📁 18+ Public Repositories
-- 📊 380+ Contributions
-- 🚀 Analytics-focused Projects
-- 💻 Active Open Source Learner
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=soumojit-dev&show_icons=true)
 
----
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumojit-dev&layout=compact)
+
+![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumojit-dev)
+
+------------------------------------------------------------------------
 
 # 🤝 Let's Connect
 
-🌐 **Portfolio:** https://soumojit-portfolio.lovable.app/
+-   🌐 Portfolio: https://soumojit-portfolio.lovable.app/
+-   💼 LinkedIn: https://linkedin.com/in/soumojitmaitra
+-   💻 GitHub: https://github.com/soumojit-dev
+-   📧 Email: smprofessional2005@gmail.com
+-   🆔 ORCID: https://orcid.org/0009-0008-4867-7287
 
-💼 **LinkedIn:** https://linkedin.com/in/soumojitmaitra
+------------------------------------------------------------------------
 
-📧 **Email:** smprofessional2005@gmail.com
-
-🆔 **ORCID:** https://orcid.org/0009-0008-4867-7287
-
-💻 **GitHub:** https://github.com/soumojit-dev
-
----
-
-> **"Turning data into insights, and insights into impactful decisions."**
+> **Turning data into insights, and insights into impactful decisions.**
